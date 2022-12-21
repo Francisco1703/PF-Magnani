@@ -159,4 +159,24 @@
   transition: all 0.6s;
 }
 
+.p__galeria {
+  font-family: "trispace", sans-serif;
+  font-size: 260%;
+}
+
+.bg__galeria {
+  background: -webkit-linear-gradient(top, red, blueviolet, aqua);
+}
+
+.img__galeria {
+  height: 300px;
+  width: 100%;
+}
+.img__galeria:hover {
+  transform: scale(0.9);
+  cursor: pointer;
+  opacity: 80%;
+  box-shadow: 0 0 60px aquamarine;
+}
+
 /*# sourceMappingURL=style.css.map */

@@ -81,4 +81,33 @@
   font-family: "trispace", sans-serif;
 }
 
+.bg__servicios {
+  background-color: blanchedalmond;
+}
+.bg__servicios .h1__servicios {
+  font-family: "libre baskerville", sans-serif;
+}
+.bg__servicios .p__servicios {
+  font-family: "trispace", sans-serif;
+}
+
+.img__servicios {
+  max-width: 100%;
+}
+.img__servicios:hover {
+  transform: scale(0.9);
+}
+
+.ubicacion__color {
+  background-color: #000000;
+}
+.ubicacion__color .h2__ubicacion {
+  background-color: #000000;
+  font-family: "libre baskerville", sans-serif;
+}
+
+.iframe__servicios {
+  max-width: 100%;
+}
+
 /*# sourceMappingURL=style.css.map */

@@ -179,4 +179,24 @@
   box-shadow: 0 0 60px aquamarine;
 }
 
+.h1__contacto {
+  font-family: "libre baskerville", sans-serif;
+  box-shadow: 0 0 30px #000000;
+}
+
+.contacto__hero {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imagenes/bg\ contacto.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ff__contacto {
+  font-family: "libre baskerville", sans-serif;
+}
+
+.btn__hover {
+  background-color: #7d22c4;
+}
+
 /*# sourceMappingURL=style.css.map */

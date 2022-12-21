@@ -1,0 +1,20 @@
+{
+  "name": "proyecto-final-magnani",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass --watch scss/style.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Francisco1703/PF-Magnani.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Francisco1703/PF-Magnani/issues"
+  },
+  "homepage": "https://github.com/Francisco1703/PF-Magnani#readme"
+}
